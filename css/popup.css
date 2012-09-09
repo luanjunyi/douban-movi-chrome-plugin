@@ -1,0 +1,49 @@
+body {
+    width:225px;
+    font-size: 13px;
+}
+
+img {
+    margin:5px;
+    border:2px solid black;
+    vertical-align:middle;
+    width:75px;
+    height:75px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding-bottom: 2px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+ul.item-container {
+    border-top: solid 1px #cdcdcd;
+    padding-top: 8px;
+}
+
+#query {
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#entry-container {
+    width: 225px;
+}
+
+span.rate-star {
+    background: url("../img/rate_star.gif") no-repeat;
+    display: inline-block;
+    width: 55px;
+    height: 11px;
+}
+
+span.star35 {
+    background-position: 0 -33px;
+}
